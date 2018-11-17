@@ -1,0 +1,16 @@
+Juan:15:Asturias
+Pepe:16:Asturias
+Paco:20:Barcelona
+Alejandro:21:Asturias
+Pipo:19:Barcelona
+Antonio:21:Barcelona
+Raul:19:Asturias
+Alba:18:Caceres
+Antonio:41:Caceres
+Javi:22:Cadiz
+Gino:24:Malaga
+Pepe:14:Cadiz
+Raul:17:Madrid
+Fernando:26:Asturias
+Mario:41:Madrid
+Final:99:Fin
