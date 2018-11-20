@@ -3,7 +3,6 @@
 	-el script toma datos de file.txt
 	-esos datos son-> nombre apellidos:edad:ciudad
 	-Los ":" son separadores de campos, no deben ser modificados
-	-La ultima linea del fichero, no debe ser modificada, ya que indica el final del script
 	-Una vez ya organizados los datos, el script va a clasificar a los mayores de 
     18 por ciudades, indicando todas las personas con sus respectivas edades de cada ciudad.
 	-Por otro lado, tambien mostrará a los menores de edad, y indicará cuantos años 
