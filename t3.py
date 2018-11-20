@@ -19,7 +19,7 @@ while line:
         fuera.append(campos)
     line=fe.readline().strip()
     campos=line.split(":")
-    if campos[2] =="Fin":
+    if not line:
         print("")
         print("Son de " + Ciudades[n] + " ^")
         print("___________________________________________________________")

@@ -13,4 +13,3 @@ Pepe:14:Cadiz
 Raul:17:Madrid
 Fernando:26:Asturias
 Mario:41:Madrid
-Final:99:Fin
